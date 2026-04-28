@@ -128,4 +128,9 @@ class DoubleLinkedList
         delete current;
         cout << "record with roll number " << rollNo << " deleted" << endl;
     }
+
+    void traverse()
+    {
+
+    }
 }; 
