@@ -81,4 +81,9 @@ class DoubleLinkedList
             current->next = newNode;  // sep 9d: current.next = newNode
 
     }
+
+    void hapus()
+    {
+        
+    }
 }; 
