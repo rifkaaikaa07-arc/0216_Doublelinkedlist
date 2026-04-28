@@ -152,5 +152,11 @@ class DoubleLinkedList
         currentNode = currentNode->prev;
         i--;
         }
+
+    }
+
+    void revtraverse()
+    {
+        
     }
 }; 
